@@ -1,5 +1,5 @@
 ### Hi there 👋
-[main image](/Blue Travel Photo Collage.png)
+[main image](https://github.com/sayantan1410/sayantan1410/blob/master/Blue%20Travel%20Photo%20Collage.png)
 
 - 🔭 I’m currently working on the domain of machine learning 
 - 🌱 I’m currently learning neural network and natural language processing

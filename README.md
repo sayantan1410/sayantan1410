@@ -1,4 +1,5 @@
 ### Hi there, This is sayantan 👋
+<img src = "https://github.com/sayantan1410/sayantan1410/blob/master/Main%20image.png">
 - 🔭 I’m currently working on the domain of machine learning 
 - 🌱 I’m currently learning neural network and natural language processing
 - 💬 Ask me about machine learning and pythons. I may not have a answer but we will find out together.

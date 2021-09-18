@@ -8,7 +8,7 @@
 - 📫 How to reach me: linkedIn - [LinkedIn](https://www.linkedin.com/in/sayantan--/)
 - 📫 I'm also very motivated about theoretical physics and cosmology. We can have good conversation with me about this topics.
 
-## <img width="20" height="20" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
+## <img width="20" height="20" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Stats
 <br/>
 <a href="https://github.com/sayantan1410">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />

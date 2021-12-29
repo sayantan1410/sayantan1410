@@ -11,6 +11,6 @@
 ## <img width="20" height="20" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Stats
 <br/>
 <a href="https://github.com/sayantan1410">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan1410&theme=dark&hide_langs_below=1" />
 </a>
 <img src = "https://github-readme-stats.vercel.app/api?username=sayantan1410&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
